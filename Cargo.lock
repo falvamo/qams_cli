@@ -181,7 +181,7 @@ dependencies = [
 [[package]]
 name = "qams_core"
 version = "0.1.0"
-source = "git+https://github.com/falvamo/qams_core/#5649cfbdb55cc6705e0d9e7d0c5bbaec3e811844"
+source = "git+https://github.com/falvamo/qams_core/#e614312d652d5c677e1c0fcd0398c110015d3cab"
 
 [[package]]
 name = "redox_syscall"
