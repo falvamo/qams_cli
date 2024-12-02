@@ -1,0 +1,8 @@
+﻿Criterion,YES,NO,N/A
+Product contents are correct,0,FATAL,ERROR
+Product within required weight range,0,FATAL,ERROR
+Product within required colour range,0,FATAL,ERROR
+Barcode printed clearly,2,0,ERROR
+Expiry date printed clearly,2,0,2
+Timestamp printed clearly,1,0,1
+Batch code printed clearly,1,0,1
